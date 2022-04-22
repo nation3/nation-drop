@@ -1,5 +1,15 @@
 [
  {
+  "address": "0xbd0531975D4D273e557E40856320304B39806AD8",
+  "earnings": "1000000000000000000",
+  "reasons": "tweetdrop"
+ },
+ {
+  "address": "0x24c122d88e768f8fE31B41A22cb7348bA91C6ab2",
+  "earnings": "1000000000000000000",
+  "reasons": "tweetdrop"
+ },
+ {
   "address": "0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764",
   "earnings": "1000000000000000000",
   "reasons": "tweetdrop"
