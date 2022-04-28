@@ -235,26 +235,6 @@
   "reasons": "tweetdrop-rep"
  },
  {
-  "address": "0xa44e82e17A2a5849556FBC694A3a1c6CcA1bcabd",
-  "earnings": "1000000000000000000",
-  "reasons": "tweetdrop-rep"
- },
- {
-  "address": "0x7f731A0B74E8876848696626A1Af8015BA672E5a",
-  "earnings": "1000000000000000000",
-  "reasons": "tweetdrop-rep"
- },
- {
-  "address": "0xb2843a9b5DCB4c76463fb1ad669b334d164a8DdF",
-  "earnings": "1000000000000000000",
-  "reasons": "tweetdrop-rep"
- },
- {
-  "address": "0x0Ee7f46Cf26992D1Dd31d01a7DD4440C8F9f8231",
-  "earnings": "1000000000000000000",
-  "reasons": "tweetdrop-rep"
- },
- {
   "address": "0x658642b84b25a418765916ea56f885293a8538d5",
   "earnings": "1000000000000000000",
   "reasons": "tweetdrop-rep"
@@ -466,6 +446,16 @@
  },
  {
   "address": "0x9e74d553daD5Cff719048b42e5eF8D6C171C4cFD",
+  "earnings": "1000000000000000000",
+  "reasons": "tweetdrop-rep"
+ },
+ {
+  "address": "0x4953b5F3980f0FE8584F84C9A1AD93013EBE29c6",
+  "earnings": "1000000000000000000",
+  "reasons": "tweetdrop-rep"
+ },
+ {
+  "address": "0x1021F3e9f52A09d509225EBfe467EAc14DfbEb79",
   "earnings": "1000000000000000000",
   "reasons": "tweetdrop-rep"
  }
